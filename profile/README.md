@@ -1,4 +1,4 @@
-# ThesisSync
+# ThesiSync
 
 > An API-based scheduling system for thesis consultations and defense coordination.
 
